@@ -33,7 +33,7 @@ A sleek and minimal AI chatbot interface inspired by Google's Gemini AI. This ch
 ## 🛠️ Installation  
 
 ```sh  
-git clone https://github.com/your-username/gemini-chatbot.git  
+git clone https://github.com/your-username/gemini-chatbot.git](https://github.com/anirban222777das/ai-chatbot.git  
 cd gemini-chatbot  
 npm install  
 npm run dev  
